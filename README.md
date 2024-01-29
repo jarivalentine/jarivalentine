@@ -1,3 +1,4 @@
 ### Hello :)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarivalentine&layout=compact&count-private=true&theme=dark&langs_count=10&size_weight=0.5&count_weight=0.5)
+My skills
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,nodejs,react,vue,laravel,php,androidstudio,kotlin,dotnet,cs,java,git,github,gitlab,docker,gcp,python,figma,unreal,blender,wordpress&perline=)
